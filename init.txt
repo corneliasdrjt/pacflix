@@ -1,0 +1,4 @@
+File inisialisasi repo:
+- deskripsi
+- objective
+- cara menggunakan
